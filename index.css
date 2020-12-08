@@ -12,7 +12,7 @@ body{
     margin-top: 6vh;
 }
 header{
-    background-image: url("https://github.com/zhouuualexander/Alberta-Covid-19-Briefing/blob/main/Doc/DSC_5616.jpg");
+    background-image: url(/Users/alexzhou/Documents/Alberta-Covid-19-Briefing/Doc/DSC_5616.jpg);
     background-position: 50% 50%;
 	background-repeat: no-repeat;
 	background-size: cover;
