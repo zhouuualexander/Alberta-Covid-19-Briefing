@@ -1,0 +1,43 @@
+
+.text-center{
+    text-align: center;
+    color: #FFFFFF;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+    
+}
+#header-div{
+    margin-top: 6vh;
+}
+header{
+    background-image: url(/Users/alexzhou/Documents/Alberta-Covid-19-Briefing/Doc/DSC_5616.jpg);
+    background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+    backface-visibility: hidden;
+	height: 50vh;
+	overflow: hidden;
+	position: relative;
+    width: 100%;
+    opacity: 0.9;
+	
+}
+#main{
+   
+    margin: 0;
+}
+.Gov-Info{
+    margin-top: 18%;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: smaller;
+}
+#timeline{
+    color: #00887A;
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: justify;
+  
+}
