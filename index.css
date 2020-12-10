@@ -11,6 +11,12 @@ body{
 #header-div{
     margin-top: 6vh;
 }
+html,body
+{
+    overflow-x: hidden; 
+    
+}
+
 header{
     background-image: url(Doc/DSC_5616.jpg);
     background-position: 50% 50%;
